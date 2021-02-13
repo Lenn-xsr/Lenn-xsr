@@ -13,7 +13,7 @@ Hello, I'm **Lennart**, and I'm growing and learning with each passing day in th
 
 <br>
 
-**Linguagens e Tecnologias**
+**Languages and Technologies**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=41B883)
