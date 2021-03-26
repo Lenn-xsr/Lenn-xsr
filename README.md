@@ -19,7 +19,6 @@ Hello, I'm **Lennart**, and I'm growing and learning with each passing day in th
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=41B883)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP)
 
 ![MONGO](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
 ![MYSQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
