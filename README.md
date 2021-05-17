@@ -1,10 +1,10 @@
 <h1 align=center>Lennart</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=lennart-sr" alt="akshit-wtf" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/lennart-sr?label=Follow&style=social" alt="github followers" /><br>
+    <img src="https://komarev.com/ghpvc/?username=lenn-xsr" alt="akshit-wtf" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/lenn-xsr?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=lennart-sr&show_icons=true&custom_title=Lennart%20Github%20Stats&theme=tokyonight" alt="Lennart Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api?username=lenn-xsr&show_icons=true&custom_title=Lennart%20Github%20Stats&theme=tokyonight" alt="Lennart Statistics." />
     
 </p>
 <hr>
