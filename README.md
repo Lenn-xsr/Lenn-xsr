@@ -15,5 +15,3 @@ Hello, I'm **Lennart**, and I'm growing and learning with each passing day in th
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-
- ![Snake animation](https://github.com/Lenn-xsr/Lenn-xsr/blob/output/github-contribution-grid-snake.svg)
